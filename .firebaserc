@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-example-8a381"
+  },
+  "targets": {
+    "angular-example-8a381": {
+      "hosting": {
+        "angular-tic-tac-toe": [
+          "angular-example-8a381"
+        ]
+      }
+    }
+  }
+}
